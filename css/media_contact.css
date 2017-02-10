@@ -1,0 +1,33 @@
+@media screen and(max-width: 992px){
+	.contact_css_widht{
+	height: 5rem!important;
+    }
+	.contact{
+	height: 100px!important;
+	}
+	h2{
+		color: red!important;
+	}
+	button{
+		color: red!important;
+		margin-bottom: 1rem!important;
+	}
+.form{
+	height: 55rem!important;
+     }
+}
+
+@media screen and (max-width: 992px){
+			
+	.media_color{
+       background-color: #ecf0f1;
+       /*height: 20rem;*/
+		width: 100%;
+   }
+}
+@media screen and (max-width: 768px){
+	/*на мал екрані отодвинув кнопку та інфу*/
+	.information_left{
+		margin-left: 1.5rem!important;
+	}
+}

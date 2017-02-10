@@ -1,0 +1,34 @@
+
+
+/*на мал.экрані фон ставлю на фото в довжину about us*/
+@media screen and (max-width: 768px){
+	/*блок about_us*/
+	.about_us{
+		height: 1540px!important;
+	}
+	.center_med{
+		/*display: block;*/
+		/*вилазить ыз знизу скрол*/
+		/*margin-left: 30%;*/
+		/*margin-right: 0%!important;*/
+		/*display: block;*/
+		/*margin: 0!important;*/
+
+	}
+/*	.text-justify{
+		visibility: visible;
+	}*/
+	.about_pad {
+		margin-left: 33%;
+	}
+	.caption{
+		margin-left: 33%;
+	}
+
+	img{
+		margin-top: 2.5rem!important;
+	}
+}
+/* щоб кнопка баттон не залазила на інфу*/
+
+

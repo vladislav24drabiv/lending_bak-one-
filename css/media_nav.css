@@ -1,0 +1,12 @@
+@media screen and (max-width: 768px){
+	/*значок бак оне отодвинув вниз*/
+	.height_f{
+		margin-top: 3rem!important;
+	}
+}
+@media screen and (max-width: 992px){
+	/*змешу. відстань між ссилками */
+	.nav_a{
+		margin-right: 20px;
+	}
+}

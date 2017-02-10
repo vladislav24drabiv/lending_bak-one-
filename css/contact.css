@@ -1,0 +1,31 @@
+.contact{
+background-color: #ecf0f1;
+/*height: 600px;*/
+/*margin-top: 6rem;*/
+}
+.contact_text{
+	margin-top: 8rem;
+}
+.contact_css_widht{
+	height: 5rem;
+}
+/*отодвигаю кнопку вниз*/
+.contact_css_top{
+	margin-top: 1.5rem;
+}
+p{
+	text-indent: 1rem;
+}
+.pad_left{
+	padding-left: 3.71rem;
+}
+.pad_left_phone{
+	padding-left: 1rem;
+}
+.information{
+	margin-top: -0.5rem;
+	margin-left: -1rem;
+}
+.form{
+	height: 25rem!important;
+}

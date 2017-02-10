@@ -1,0 +1,26 @@
+.about_us{
+	width: auto;
+	background-color: #16a086;
+	height: 660px;
+	margin-top: 5rem;
+}
+.about_us_h3{
+	color: white;
+	font-size: 2em;
+	margin-top: 3rem;
+}
+.about_us_text{
+	color:white;
+}
+
+.caption{
+	margin-top: -2rem!important;
+	background-color: white;
+	width: 220px!important;
+	height: 200px;
+}
+.bor_box{
+	padding-left: 1rem;
+	padding-right: 1rem;
+	box-sizing: border-box!important;
+}

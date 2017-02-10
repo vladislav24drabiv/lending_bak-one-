@@ -1,0 +1,18 @@
+footer{
+	/*margin-top: -5rem;*/
+	background-color: #2d3e50;
+	color: white;
+	height: 12rem;
+}
+.footer_pos{
+	position: relative;
+}
+.f_copy{
+	width: 100%;
+    position: absolute;
+    text-align: left;
+    top: 50%!important;
+    margin-top: 4rem;    
+  
+
+}

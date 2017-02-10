@@ -1,0 +1,61 @@
+@media screen and (max-width: 768px){
+	.we_build_brand h1{ на мал. екрані зменшую заголовок
+		font-size: 3rem;
+		/*text-align: justify;*/
+		/*color:blue;*/
+	}
+	.foto_brand{
+		margin-top: -4.5rem!important;
+	}
+}
+@media screen and (max-width: 1100px){ /*при зменшенні екрану опускаю вниз заголовок */
+
+	h1{
+		font-size:4.0rem;
+	}
+}
+@media screen and (max-width: 992px){ /*при зменшенні екрану опускаю вниз заголовок */
+	
+	h1{
+		font-size:3.6rem;
+		margin-top: 4.5rem;
+	}
+	.btn_radius{ /*зменшую кнопку*/
+		/*width: 10rem;*/
+		/*height: 4rem;*/
+	}
+	.button_circle{
+		/*margin-left: 14.2rem;*/
+	}
+}
+@media screen and (max-width: 768px){ /*при зменшенні екрану опускаю вниз заголовок */
+	.foto_brend_media{
+		/*margin-top: 18rem;*/
+	}
+	.btn_radius{/*кнопка*/
+		/*margin-top: 1.5rem!important;*/
+		/*margin-left: 8rem;*/
+	}
+	.button_circle{
+		/*margin-left: 10.5rem;*/
+	}
+	.text_none{
+		display: none;
+	}
+}
+@media screen and (max-width: 600px){ /*при зменшенні екрану опускаю вниз заголовок */
+	.foto_brend_media{
+		/*margin-top: 27rem;*/
+	}
+	.btn_radius{ /*кнопка*/
+		/*margin-top: -5rem;*/
+	}
+	.button_circle{
+		/*margin-top: 0.9rem;*/
+	}
+}
+@media screen and (max-width: 450px){ при зменшенні екрану опускаю вниз заголовок 
+	.foto_brend_media{
+		/*margin-top: 30rem;*/
+	}
+}

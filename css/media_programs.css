@@ -1,0 +1,22 @@
+@media screen and (max-width: 465px){
+	.flat{
+		margin-top: 0.5rem!important;
+		/*padding-top: 1rem!important;*/
+		
+	}
+	
+}
+@media screen and (max-width: 992px){
+	.circle_left{margin-left: 12%;}
+}
+@media screen and (max-width: 672px){
+	.circle_left{
+		margin-left: 	8.5%;
+	}
+}
+@media screen and (max-width: 572px){
+	.circle_left{margin-left: 	5.0%;}
+}
+@media screen and (max-width: 500px){
+	.circle_left{margin-left: 	3.8%;}
+}*/

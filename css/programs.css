@@ -1,0 +1,29 @@
+.foto1{
+	margin-top: 5rem;
+}
+.programs_button{
+	margin-top: 3rem;
+}
+/*отодвинув круги вправо */
+.circle_left{
+	margin-left: 1rem;
+}
+.up_to_portof{
+	margin-top: 4rem;
+}
+.one {
+	/*display: none;*/
+}
+.two{
+	/*display: none;*/
+}
+/*.programs_height{
+	height: 730px;
+}*/
+
+/*.hidden{
+opacity:0;
+}
+.visible{
+opacity:1;
+}*/

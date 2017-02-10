@@ -1,0 +1,31 @@
+
+
+.foto_nav{
+	/*height: 100px!important;*/
+	background-color: #c7b39b;
+	 /*margin-top: 20px;*/
+	 /*margin-left: 4rem!important;*/
+	 margin-top: -2rem!important;
+	 /*width: auto;*/
+}
+.nav_a{
+    margin-top: 10px;
+	margin-right: 25px;
+}
+
+@media screen and ( min-width:768px ) {
+	// селектор + стили, 
+	// вже пiдключений нормалайз сss
+}
+
+.nav_a:hover{
+	/*background:#1bbc9b;*/
+	/*color:#FFF;*/
+	background-color: #1bbc9b!important;
+}
+.height_f{
+	height: 8rem;
+}
+.foto_nav_media{
+	margin-top: 2rem;
+}
